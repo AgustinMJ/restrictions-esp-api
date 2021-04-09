@@ -1,0 +1,1 @@
+Spain Covid Restrictions API

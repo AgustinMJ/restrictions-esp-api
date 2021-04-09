@@ -1,0 +1,63 @@
+{
+    "movility": [
+        "Movilidad limitada dentro de la comarca"
+    ],
+    "curfew": [
+        "Se prohibeien todos los desplazamientos i circulación por la calle entre las 22 i las 6h"
+    ],
+    "groups": [
+        "Reuniones de máxmimo 6 personas, a menos que sean convivientes"
+    ],
+    "restaurants": {
+        "general": [
+            "De 7:30h a 17h",
+            "Distáncia mínima de 2 metros entre mesas"
+        ],
+        "terrazas": [
+        ],
+        "interiores": [
+            "Abiertos con el 30% del aforo",
+            "Con buena ventilación y 2 metros entre mesas"
+        ]
+    },
+    "commerce": {
+        "minorista": {
+            "Pueden abrir todos los dias de la semana": [
+                 "Los establecimentos locales con una superfície de venta igual o inferior a 800m2 con un aforo del 30%",
+                 "Els establecimentos locales con una superficie de venta superior a 800m2 con un aforo del 30%"
+            ]
+        },
+        "centros, galerias i recintos comerciales": {
+            "Pueden abrir todos los dias de la semana": [
+                 "Los establecimientos comerciales con una superfície de venta igual o inferior a 800m2 con un aforo del 30%",
+                 "Los establecimientos comerciales con una superficie de venta superior a 800m2 con un aforo del 30%",
+                 "Las zonas comunes tienen una limitación del aforo de un 30%"
+            ]
+        },
+        "mercados i ferias": [
+            "Aforo del 30%"
+        ]
+    },
+    "public transport": [
+        "Oferta al 100%",
+        "Mascarilla obligatoria",
+        "Las estaciones en espacios cerrados deben ofrecer dispensadores de gel hidroalcohólico",
+        "En el caso de taxis de hasta 9 plazas, se pueden ocupar todas las plazas libres excepto la del lado del conductor, i con el límite máximo de 6 persones con el conductor"
+    ],
+    "culture": {
+        "artes escénicas i musicales": [
+            "Aforo al 50% i un máximo de 500 espectadores por actuación o sessión",
+            "Si son al aire libre, el máximo es de 1000 persones",
+            "No se permite servicio de bar"
+        ],
+        "arxivos, bibliotecas, museos, salas de exposiciones": [
+            "Limitación del aforo del 50%"
+        ],
+        "activitades de cultura popular i tradicional": [
+            "Aforo en espacios cerrados del 50% i límite de 500 personas",
+            "Aforo en espacios abiertos del 50% i límite de de 1000 personas",
+            "Los assistentes deben estar sentados"
+        ]
+    },
+    "playgrounds": {}
+}
