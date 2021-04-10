@@ -1,1 +1,1 @@
-web: vendor/bin/restrictions-esp
+web: ./bin/cat-covid-restrictions-api
