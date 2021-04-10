@@ -1,1 +1,1 @@
-web: ./restrictions-esp
+web: restrictions-esp
