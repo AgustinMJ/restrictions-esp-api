@@ -1,1 +1,1 @@
-web: restrictions-esp
+web: vendor/bin/restrictions-esp
