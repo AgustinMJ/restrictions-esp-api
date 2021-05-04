@@ -9,32 +9,32 @@
         "Reunions de màxmim 6 persones, a menys que siguin convivents"
     ],
     "restaurants": {
-        "general": [
+        "General": [
             "De 7:30h a 17h",
             "Distància mínima de 2 metres entre taules"
         ],
-        "terraces": [
+        "Terraces": [
         ],
-        "interiors": [
+        "Interiors": [
             "Oberts amb el 30% del aforament",
             "Amb bona ventilació i 2 metres entre taules"
         ]
     },
     "commerce": {
-        "minorista": {
+        "Minorista": {
             "Poden obrir tots els dies de la setmana": [
                  "Els establiments locals amb una superfície de venta igual o inferior a 800m2 amb un aforament del 30%",
                  "Els establiments locals amb una superficie de venta superior a 800m2 amb un aforament del 30%"
             ]
         },
-        "centres, galeries i recintes comercials": {
+        "Centres, galeries i recintes comercials": {
             "Poden obrir tots els dies de la setmana": [
                  "Els establiments comercials amb una superfície de venta igual o inferior a 800m2 amb un aforament del 30%",
                  "Els establiments comercials amb una superficie de venta superior a 800m2 amb un aforament del 30%",
                  "Les zones comuns tenen una limitació de l'aforament d'un 30%"
             ]
         },
-        "mercats i fires": [
+        "Mercats i fires": [
             "Aforament del 30%"
         ]
     },
@@ -45,15 +45,15 @@
         "En el cas de taxis de fins a 9 places, es poden ocupar totes les places lliures excepte la del costat del conductor, i amb el límit màxim de 6 persones amb el conductor"
     ],
     "culture": {
-        "arts escèniques i musicals": [
+        "Arts escèniques i musicals": [
             "Aforament al 50% i un màxim de 500 espectadors per actuació o sessió",
             "Si són a l'aire llire, el màxim és de 1000 persones",
             "No es permet servei de bar"
         ],
-        "arxius, biblioteques, museus, sales d'exposicions": [
+        "Arxius, biblioteques, museus, sales d'exposicions": [
             "Limitació de l'aforament del 50%"
         ],
-        "activitats de cultura popular i tradicional": [
+        "Activitats de cultura popular i tradicional": [
             "Aforament en espais tancats del 50% i límit de 500 persones",
             "Aforament en espais oberts del 50% i límit de de 1000 persones",
             "Els assistents han d'estar asseguts"
