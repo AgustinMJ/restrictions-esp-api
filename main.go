@@ -18,6 +18,8 @@ func getRestrictions(w http.ResponseWriter, r *http.Request) {
 	lang := mux.Vars(r)["lang"]
 	com := mux.Vars(r)["com"]
 
+	w.Header().Set("Content-Type", "application/json; charset=utf-8")
+
 	http.ServeFile(w, r, "./static/"+lang+"/"+com+".json")
 }
 
