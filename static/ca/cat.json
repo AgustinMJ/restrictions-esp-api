@@ -1,19 +1,17 @@
 {
     "movility": [
-        "Movilitat limitada dins la comarca"
     ],
     "curfew": [
-        "Es prohibeixen tots els desplaçaments i circulació pel carrer entre les 22 i les 6h"
     ],
     "groups": [
         "Reunions de màxmim 6 persones, a menys que siguin convivents"
     ],
     "restaurants": {
         "General": [
-            "De 7:30h a 17h",
-            "Distància mínima de 2 metres entre taules"
+            "De 7:30h a 23h"
         ],
         "Terraces": [
+            "Distància mínima de 2 metres entre taules"
         ],
         "Interiors": [
             "Oberts amb el 30% del aforament",
@@ -23,15 +21,12 @@
     "commerce": {
         "Minorista": {
             "Poden obrir tots els dies de la setmana": [
-                 "Els establiments locals amb una superfície de venta igual o inferior a 800m2 amb un aforament del 30%",
-                 "Els establiments locals amb una superficie de venta superior a 800m2 amb un aforament del 30%"
+                 "Aforament del 30%"
             ]
         },
         "Centres, galeries i recintes comercials": {
             "Poden obrir tots els dies de la setmana": [
-                 "Els establiments comercials amb una superfície de venta igual o inferior a 800m2 amb un aforament del 30%",
-                 "Els establiments comercials amb una superficie de venta superior a 800m2 amb un aforament del 30%",
-                 "Les zones comuns tenen una limitació de l'aforament d'un 30%"
+                 "Aforament del 30%"
             ]
         },
         "Mercats i fires": [
